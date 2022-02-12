@@ -44,8 +44,8 @@
 <div align="center">
 <p align="left">
 <a href="https://github.com/danilonelder">
-<img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
-<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
+<img alt="Danilo Github Stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
+<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
 </p>
 </div>
 	
