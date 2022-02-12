@@ -59,5 +59,5 @@
 </p>
   
 ## ❤ Views and Followers
-<a href="https://github.com/danilonelder/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=danilonelder"></a>
+<a href="https://komarev.com/ghpvc/?username=danilonelder"><img src="https://komarev.com/ghpvc/?username=danilonelder"></a>
 <a href="https://github.com/danilonelder?tab=followers"><img src="https://img.shields.io/github/followers/danilonelder?label=Followers&style=social" alt="GitHub Badge"></a>
