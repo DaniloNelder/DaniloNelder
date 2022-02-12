@@ -58,8 +58,8 @@
 
 ## 📊 My Github Stats
 <a href="https://github.com/danilonelder">
-<img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder"/>
-<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
+<img alt="Danilo Github Stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=danilonelder"/>
+<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
