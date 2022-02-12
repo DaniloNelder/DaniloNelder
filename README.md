@@ -21,6 +21,7 @@
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png"  width="48" height="48"/> </a>
     <a href="https://www.eclipse.org/" target="_blank"> <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"  width="45" height="45"/> </a>
+  <a href="https://www.ibm.com/br-pt/cloud/websphere-application-platform" target="_blank"> <img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5803/3207/thumbnail.png?v131178031722466988"  width="45" height="45"/> </a>
     <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
     <a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Delphi_Language_Logo.png/600px-Delphi_Language_Logo.png"  width="48" height="48"/> </a> 
@@ -33,11 +34,13 @@
     <a style="padding-right:8px;" href="https://docs.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver15" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.oracle.com/br/database/" target="_blank"> <img src="https://i.pinimg.com/originals/08/ed/5e/08ed5e21ba68fda78747257e5aa4bb70.png" width="48" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://www.clipartmax.com/png/middle/72-725218_as-mention-at-mysql-mysql-mysql-is-deployed-in-9-of-my.png" width="48" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://www.ibm.com/br-pt/analytics/db2" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL29jXtM1i45RKSZWcInnczUeoBTb7xCGtYhtQDv19t6VbOMHrphkD8w3NKsoE73IVxIo&usqp=CAU" width="48" height="48"/> </a>
     <a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a> 
+      <a href="https://firebirdsql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Firebird_logo.svg" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
      <a href="https://tortoisesvn.net/" target="_blank"> <img src="https://s1.o7planning.com/ru/10261/images/32401.png" alt="sqlite" width="48" height="48"/> </a> 
-    
+     <a href="https://tomcat.apache.org/" target="_blank"> <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="sqlite" width="48" height="48"/> </a> 
    
 </p>
 
@@ -50,15 +53,12 @@
 </p>
 
 ## 📊 My Github Stats
-<div>
-  <br/>
-  <a href="https://github.com/danilonelder"><img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-</div>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<a href="https://github.com/danilonelder">
+<img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
