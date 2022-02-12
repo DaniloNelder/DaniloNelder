@@ -70,7 +70,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/danilonelder/"><img width="130" height="70" src="https://blog.aevo.com.br/wp-content/uploads/2021/04/linkedin-logo-vale-do-silicio.jpg"/></a>
-<a href = "https://api.whatsapp.com/send?phone=5514997252970"><img width="130" height="80" src="https://logosmarcas.net/wp-content/uploads/2020/05/WhatsApp-Emblema.jpg"/></a>
 <a href = "https://www.instagram.com/danilonelder/"><img width="150" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeI2kCPHOKXqCaYxvorTcIETh8oDlm11ZplA&usqp=CAU"/></a>
 <a href = "https://twitter.com/DaniloNelder/"><img width="130" height="80" src="https://logosmarcas.net/wp-content/uploads/2020/04/Twitter-Logo-2010%E2%80%932012.jpg"/></a>
 <a href = "https://www.facebook.com/danilo.nelder/"><img width="130" height="80" src="https://logosmarcas.net/wp-content/uploads/2020/04/Facebook-Logo.png"/></a>
