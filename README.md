@@ -33,9 +33,7 @@
   	<img align="center" a href="https://www.oracle.com/br/linux/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="sqlite" width="48" height="48"></a>
 </div>  
  
-
 <br/>
-
 <p align="center">
     <a href="https://github.com/danilonelder">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Danilo Nelder" src="https://github-readme-streak-stats.herokuapp.com/?user=danilonelder&theme=cobalt%20de%20t%C3%B3quio&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&sideLabels=000000&ring=3C5DDD&fire=3C5DDD&currStreakLabel=000000"/>
@@ -43,11 +41,14 @@
 </p>
 
 ## 📊 My Github Stats
-<p align="center">
+<div align="center">
+<p align="left">
 <a href="https://github.com/danilonelder">
 <img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
 <a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
 </p>
+</div>
+	
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
