@@ -16,7 +16,7 @@
 - ⚡ Curiosity I try to play the guitar because I find it fascinating.
 -->
 ## 🚀 Languages and Tools:
-
+ 
 <p align="left"> 
     <a target="_blank" href="https://www.java.com" > <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/icon_CE_256_2Qe5uEl.png"  width="48" height="48"/> </a>
@@ -50,11 +50,12 @@
 </p>
 
 ## 📊 My Github Stats
-
+<div>
   <br/>
   <a href="https://github.com/danilonelder"><img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+</div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
