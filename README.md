@@ -2,20 +2,6 @@
   
 <h3 align="center">The more I see the evolution of technology and what it can do, the more it fascinates me!</h3>
 
-<!--
-## 🙋‍♂️ About me
-
-- 🔭 I'm currently working at Bradesco in the insurance department.
-  
-- 🌱 I am currently learning New Methodologies using Lombok.
- 
-- 👯 I help some colleagues who are starting with technology in tips for skills.
-
-
-- 📫 How to find me **danilo_nelder@hotmail.com**
-
-- ⚡ Curiosity I try to play the guitar because I find it fascinating.
--->
 ## 🚀 Languages and Tools:
  
 <div align="center">
@@ -57,9 +43,11 @@
 </p>
 
 ## 📊 My Github Stats
+<p align="center">
 <a href="https://github.com/danilonelder">
 <img alt="Danilo Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
 <a href="https://github.com/danilonelder"><img alt="Danilo Top Languages" width="550" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
+</p>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
