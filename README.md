@@ -11,8 +11,9 @@
 	<img align="center" a href="https://www.ibm.com/br-pt/cloud/websphere-application-platform" target="_blank"> <img src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/5803/3207/thumbnail.png?v131178031722466988"  width="45" height="45"/> </a>
 	<img align="center" a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
 	<img align="center" a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
-	<img align="center" a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Delphi_Language_Logo.png/600px-Delphi_Language_Logo.png"  width="48" height="48"/> </a> 
-	<img align="center" a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+	<img align="center" a href="https://nodejs.org/en/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-o6uSZPRkoQD8NDXpDIewba-zzwBYxX4yw&usqp=CAU"  width="48" height="48"/> </a> 
+    <img align="center" a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Delphi_Language_Logo.png/600px-Delphi_Language_Logo.png"  width="48" height="48"/> </a> 
+    <img align="center" a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 	<img align="center" a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 	<img align="center" a href="https://maven.apache.org/" target="_blank" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDly3aBidr0p3ve5jYINf42dSFnsPthVUrpqi_vivMZjPYX5PSiuCFRP7WDn5V6yTA9Hk&usqp=CAU"  width="48" height="48"/> </a> 
 	<img align="center" a href="https://spring.io/" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="48" height="48"/> </a> 
@@ -31,6 +32,7 @@
 	<img align="center" a href="https://tomcat.apache.org/" target="_blank"> <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="sqlite" width="48" height="48"/> </a>   
 	<img align="center" a href="https://www.microsoft.com/pt-br/" target="_blank"> <img src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg" alt="sqlite" width="48" height="48"></a>   
   	<img align="center" a href="https://www.oracle.com/br/linux/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="sqlite" width="48" height="48"></a>
+	<img align="center" a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="sqlite" width="48" height="48"></a>
 </div>  
  
 <br/>
