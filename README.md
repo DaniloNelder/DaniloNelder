@@ -58,6 +58,8 @@
 	<a href = "https://twitter.com/DaniloNelder/"><img height="70em" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 	<a href = "https://www.facebook.com/danilo.nelder/"><img height="70em" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 	<a href = "https://danilonelder.github.io"><img height="70em" src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+	<a href = "https://stackoverflow.com/users/18207847/danilo-nelder"><img height="70em" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
+	<a href = "https://www.hackerrank.com/danilo_nelder"><img height="70em" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>	
 </p>
   
 ## ❤ Views and Followers
