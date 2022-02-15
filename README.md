@@ -45,7 +45,7 @@
 
 ## 📊 My Github Stats
 <p aligh="left">
-	<a href="https://github.com/danilonelder"><img alt="Danilo Github Stats" height="140em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
+	<a href="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"><img alt="Danilo Github Stats" height="140em" src="https://github-readme-stats.vercel.app/api?username=danilonelder&hide_border=false"/></a>
 	<a href="https://github.com/danilonelder"><img alt="Danilo Top Languages "height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilonelder&langs_count=8&count_private=true&layout=compact&theme=java&hide_border=false" /></a>
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
