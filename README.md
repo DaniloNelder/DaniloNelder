@@ -12,7 +12,7 @@
 	<img align="center" a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"  width="44" height="44"/></a> 
 	<img align="center" a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="48" height="48"/> </a> 
 	<img align="center" a href="https://nodejs.org/en/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-o6uSZPRkoQD8NDXpDIewba-zzwBYxX4yw&usqp=CAU"  width="48" height="48"/> </a> 
-    <img align="center" a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Delphi_Language_Logo.png/600px-Delphi_Language_Logo.png"  width="48" height="48"/> </a> 
+    <img align="center" a href="https://www.embarcadero.com/br/products/delphi" target="_blank"> <img src="https://seeklogo.com/images/D/Delphi-logo-F54A4632BB-seeklogo.com.png"  width="48" height="48"/> </a> 
     <img align="center" a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
     <img align="center" a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 	<img align="center" a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
