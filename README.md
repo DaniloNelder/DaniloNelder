@@ -25,15 +25,15 @@
 	<img align="center" a href="https://www.oracle.com/br/database/" target="_blank"> <img src="https://i.pinimg.com/originals/08/ed/5e/08ed5e21ba68fda78747257e5aa4bb70.png" width="48" height="48"/> </a>
 	<img align="center" a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48"/> </a>
 	<img align="center" a style="padding-right:8px;" href="https://www.ibm.com/br-pt/analytics/db2" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL29jXtM1i45RKSZWcInnczUeoBTb7xCGtYhtQDv19t6VbOMHrphkD8w3NKsoE73IVxIo&usqp=CAU" width="48" height="48"/> </a>
-	<img align="center" a href="https://rockcontent.com/br/blog/sqlite/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a> 
-	<img align="center" a href="https://firebirdsql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Firebird_logo.svg" width="48" height="48"/> </a> 
-	<img align="center" a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
-	<img align="center" a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-	<img align="center" a href="https://tortoisesvn.net/" target="_blank"> <img src="https://s1.o7planning.com/ru/10261/images/32401.png" alt="sqlite" width="48" height="48"/> </a> 
-	<img align="center" a href="https://tomcat.apache.org/" target="_blank"> <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="sqlite" width="48" height="48"/> </a>   
-	<img align="center" a href="https://www.microsoft.com/pt-br/" target="_blank"> <img src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg" alt="sqlite" width="48" height="48"></a>   
-  	<img align="center" a href="https://www.oracle.com/br/linux/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="sqlite" width="48" height="48"></a>
-	<img align="center" a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="sqlite" width="48" height="48"></a>
+	<img align="center" a href="https://rockcontent.com/br/blog/sqlite/" target="sqlLite"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" width="48" height="48"/> </a> 
+	<img align="center" a href="https://firebirdsql.org/" target="firebird"> <img src="https://firebirdsql.org/file/about/firebird-logo-48.png" width="48" height="48"/> </a> 
+	<img align="center" a href="https://firebase.google.com/" target="firebase"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
+	<img align="center" a href="https://git-scm.com/" target="scm"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+	<img align="center" a href="https://tortoisesvn.net/" target="tortoiseSVN"> <img src="https://s1.o7planning.com/ru/10261/images/32401.png" alt="sqlite" width="48" height="48"/> </a> 
+	<img align="center" a href="https://tomcat.apache.org/" target="Tomcat"> <img src="https://tomcat.apache.org/res/images/tomcat.png" alt="sqlite" width="48" height="48"/> </a>   
+	<img align="center" a href="https://www.microsoft.com/pt-br/" target="Windows"> <img src="https://github.com/neilorangepeel/Free-Social-Icons/blob/master/Flat/SVG/Windows.svg" alt="sqlite" width="48" height="48"></a>   
+  	<img align="center" a href="https://www.oracle.com/br/linux/" target="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="sqlite" width="48" height="48"></a>
+	<img align="center" a href="https://www.docker.com/" target="Docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="sqlite" width="48" height="48"></a>
 </div>  
  
 <br/>
@@ -54,13 +54,13 @@
 
 ## Connect with me:
 <p align="left">
-	<a href = "https://www.linkedin.com/in/danilonelder/"><img height="70em" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
-	<a href = "https://www.instagram.com/danilonelder/"><img height="70em" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/></a>
-	<a href = "https://twitter.com/DaniloNelder/"><img height="70em" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-	<a href = "https://www.facebook.com/danilo.nelder/"><img height="70em" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-	<a href = "https://danilonelder.github.io"><img height="70em" src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-	<a href = "https://stackoverflow.com/users/18207847/danilo-nelder"><img height="70em" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
-	<a href = "https://www.hackerrank.com/danilo_nelder"><img height="70em" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>	
+	<a href="https://www.linkedin.com/in/danilonelder/"><img height="70em" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/danilonelder/"><img height="70em" src="https://img.icons8.com/fluent/240/000000/instagram-new.png"/></a>
+	<a href="https://twitter.com/DaniloNelder/"><img height="70em" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+	<a href="https://www.facebook.com/danilo.nelder/"><img height="70em" src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+	<a href="https://danilonelder.github.io"><img height="70em" src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+	<a href="https://stackoverflow.com/users/18207847/danilo-nelder"><img height="70em" src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
+	<a href="https://www.hackerrank.com/danilo_nelder"><img height="70em" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>	
 </p>
   
 ## ❤ Views and Followers
